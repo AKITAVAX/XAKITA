@@ -1,1 +1,17 @@
 # XAKITA
+
+Tokenomics of $XAKITA
+
+Total Supply: 100.000.000.000.000 $XAKITA
+
+Airdrop: 12.500.000.000.000 $XAKITA
+
+Liquidity: 25.000.000.000.000 $XAKITA
+
+Holders: 12.500.000.000.000 $XAKITA
+
+Partnerships: 12.500.000.000.000 $XAKITA
+
+Marketing: 25.000.000.000.000 $XAKITA
+
+Burn: 12.500.000.000.000 $XAKITA
